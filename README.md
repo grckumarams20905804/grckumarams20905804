@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @grckumarams20905804
+- 👋 Hi, I’m @ckumara
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Pythom for Data Mining & Visilazation
 - 💞️ I’m looking to collaborate on Pythom for Data Mining & Visilazation.
